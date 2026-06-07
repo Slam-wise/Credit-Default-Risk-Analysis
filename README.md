@@ -106,7 +106,7 @@ matplotlib
 ## Usage
 
 ```bash
-git clone https://github.com/Slam-wise/Credit-Default-Risk-Analysis
+git clone https://github.com/Slam-wise/Credit-Default-Risk-Analysis.git
 cd Credit-Default-Risk-Analysis
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
