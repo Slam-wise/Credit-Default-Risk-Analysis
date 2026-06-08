@@ -118,6 +118,6 @@ Dataset available from the [UCI Machine Learning Repository](https://archive.ics
 
 ## Author
 
-Slamwise
+slamwise
 
-[github.com/Slam-wise](https://github.com/Slam-wise)
+[github.com/slam-wise](https://github.com/slam-wise)
